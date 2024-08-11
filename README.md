@@ -1,5 +1,5 @@
 ## Murine_PDAC_RNAseq
-Quality control, alignment, and quantification of murine PDAC RNA-seq data
+Quality control, alignment, quantification, and differential expression analysis of murine PDAC RNA-seq data
 
 RNAseq_PDACtumor_Github.docx contains the bash scripts for RNA-seq analysis.
 
