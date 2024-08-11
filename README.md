@@ -1,4 +1,4 @@
-# Murine_PDAC_RNAseq
+## Murine_PDAC_RNAseq
 Quality control, alignment, and quantification of murine PDAC RNA-seq data
 
 RNAseq_PDACtumor_Github.docx contains bash code for RNA-seq analysis.
